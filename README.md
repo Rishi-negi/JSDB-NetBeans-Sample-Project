@@ -40,5 +40,7 @@ Documentation Link --> https://login2explore.com/jpdb/docs.html#jpdb-command-req
 ##Screenshots
 
 ![jPDB ss-1](https://user-images.githubusercontent.com/87162408/204097009-96385ee9-3058-43bb-ba6c-ae1bf0f1b94e.jpg)
+
 ![JPDB ss-2](https://user-images.githubusercontent.com/87162408/204097077-aed40219-b06d-4557-b752-18258f44c65c.jpg)
+
 ![JPDB ss-3](https://user-images.githubusercontent.com/87162408/204097086-d971effc-f4b3-45cc-9733-124de56fdabd.jpg)
