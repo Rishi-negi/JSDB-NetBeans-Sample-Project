@@ -4,3 +4,21 @@ JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverless, Simpl
 It is basically a Database Server with Developer friendly REST API services.
 
 JPDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+
+## Project Description
+This project is about the implementation of CRUD operations on the database provided by Login2Xplore. 
+```
+Documentation Link --> https://login2explore.com/jpdb/docs.html#jpdb-command-request
+```
+
+## Benefits of using JsonPowerDB
+* Serverless support for faster development - A UI developer can develop complete dynamic application.
+* Server side Native NoSQL - best query performance.
+* Schema free - easy to develop and maintain.
+* Web-services API - Can be used with any programming language that has support for HTTP.
+* Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.
+* Standardisation of API development framework makes the development process easy, more readable, and less error prone.
+* Multiple security layers.
+* Nimble, Simple to use, In Memory, Real-time DBMS.
+
+
