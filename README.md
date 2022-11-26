@@ -1,8 +1,6 @@
-# JSONpowerDB-Dummy-Project
+# JsonPowerDB
 JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
-
 It is basically a Database Server with Developer friendly REST API services.
-
 JPDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
 ## Project Description
@@ -34,9 +32,9 @@ Documentation Link --> https://login2explore.com/jpdb/docs.html#jpdb-command-req
 * Minimize the complexity of interoperability of different applications
 * Maximum data processing Performance
 * Technology Futuristic
-* * Fill gap from DB to big data 
-** Pluggable with new Algorithms 
-** Pluggable with User defined API 
+* Fill gap from DB to big data 
+* Pluggable with new Algorithms 
+* Pluggable with User defined API 
 * Minimize Total cost of ownership
 
 
