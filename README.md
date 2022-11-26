@@ -5,9 +5,8 @@ JPDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial 
 
 ## Project Description
 This project is about the implementation of CRUD operations on the database provided by Login2Xplore. 
-```
+
 Documentation Link --> https://login2explore.com/jpdb/docs.html#jpdb-command-request
-```
 
 ## Benefits of using JsonPowerDB
 * Serverless support for faster development - A UI developer can develop complete dynamic application.
